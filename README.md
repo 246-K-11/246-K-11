@@ -1,5 +1,5 @@
 # ⟬ About Me ⟭:
-💕Cybersecurity Enthusiast, Nerd, Sleepy💕<br>💙Proficient in 7 coding languages<br>°Hobbies: Gaming, Coding, Tech videos criticizing large tech companies/monopolies<br>°Currently I'm learning the CISCO cybersecurity associate material to gain my first cert. 
+💕Cybersecurity Enthusiast, Nerd, Sleepy💕<br>💙Proficient in 7 coding languages<br>°Hobbies: Gaming, Coding, Tech videos criticizing large tech companies/monopolies<br>°CISCO Certified CyberOPS Associate
 
 
 ## 🌐 Socials:
