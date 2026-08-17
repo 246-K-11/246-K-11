@@ -19,10 +19,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=246-K-11&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=246-K-11&theme=midnight&hide=stars%2Ccommits%2Cprs%2Cissues%2Cfollowers)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/khajon11) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/khajon11) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
